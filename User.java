@@ -1,6 +1,5 @@
 package com.jairius.users;
 import org.springframework.beans.factory.annotation.Autowired;
-
 import jakarta.persistence.*;
 
 @Entity //An Entity is a Java class that maps to a database table
