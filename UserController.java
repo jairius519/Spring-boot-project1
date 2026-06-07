@@ -1,11 +1,6 @@
 package com.jairius.users;
 import java.util.List;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
-
+import org.springframework.web.bind.annotation.*;
 @RestController
 @RequestMapping("/api/users") //Base URL for all endpoints in this controller
 public class UserController {
