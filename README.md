@@ -17,7 +17,7 @@
  * Hibernate
  * Spring Data JPA
  * Maven
- * SQL Database
+ * MySQL Database
  * Postman
 
 ## Future Improvements
